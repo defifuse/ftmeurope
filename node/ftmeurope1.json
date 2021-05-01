@@ -1,0 +1,6 @@
+{
+    "name": "FTM Europe #1", /* Name of the validator */
+    "logoUrl": "https://defifuse.github.io/ftmeurope/icons/apple-icon-114x114.png", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px is enough */
+    "website": "https://defifuse.github.io/ftmeurope", /* Website icon on the right */
+    "contact": "https://twitter.com/riedflor" /* Contact icon on the right */
+}
