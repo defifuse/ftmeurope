@@ -1,18 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Fusebox FTM Europe 
 
-You can use the [editor on GitHub](https://github.com/defifuse/ftmeurope/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are a company called Fusebox running validator nodes for the [Fantom platform](https://fantom.foundation/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Currently running nodes
 
-### Markdown
+### FTM Europe #1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Availability](https://updown.io/qpvl)
 
-```markdown
-Syntax highlighted code block
+Running on a [Strato V-SERVER](https://www.strato.de/server/linux-vserver/) with carbon-neutral electricity and is ISO 27001 certified.
 
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
