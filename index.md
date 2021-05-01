@@ -1,6 +1,6 @@
 ## Welcome to Fusebox FTM Europe 
 
-We are a company called Fusebox running validator nodes for the [Fantom platform](https://fantom.foundation/){:target="_blank"} and other platforms like [IOTA](https://www.iota.org/){:target="_blank"}
+We are a company called Fusebox running validator nodes for the [Fantom platform](https://fantom.foundation/) and other platforms like [IOTA](https://www.iota.org/)
 
 ## Currently running nodes
 
@@ -8,4 +8,4 @@ We are a company called Fusebox running validator nodes for the [Fantom platform
 
 Running on a [Strato V-SERVER](https://www.strato.de/server/linux-vserver/){:target="_blank"} with carbon-neutral electricity and is ISO 27001 certified.
 
-[Server availability report](https://updown.io/qpvl{:target="_blank"}
+[Server availability report](https://updown.io/qpvl)
